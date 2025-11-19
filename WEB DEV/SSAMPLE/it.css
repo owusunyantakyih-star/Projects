@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+#main{
+    background-color: black;
+    color: darkred;
+    margin: 20px;
+    border-radius: 10px;
+    border: solid 2px orangered;
+}
+#nav>ul>li{
+    background-color: white;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    display: inline;
+    list-style: none;
+}
+
+#nav{
+    padding: 10px;
+}
+#list{
+    list-style: none;
+}
